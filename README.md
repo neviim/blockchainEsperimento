@@ -1,6 +1,6 @@
 # blockchainEsperimento
 
-Criando um blockchain do zero para melhor compreender seu funcionamento
+Criando um blockchain do zero para melhor compreender seu conceito e seu funcionamento. 
 
 Para isso vamos compreender algumas funcionalidades construir algumas Classes e
 métodos:
